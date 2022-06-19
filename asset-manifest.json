@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83f34a92.css",
+    "main.js": "/static/js/main.a38d0bb6.js",
+    "static/js/787.1fee1fb8.chunk.js": "/static/js/787.1fee1fb8.chunk.js",
+    "static/media/logo.png": "/static/media/logo.dcfc720168ca911c2b3a.png",
+    "static/media/webdev.jpg": "/static/media/webdev.0d839a5acbd31eddfd9b.jpg",
+    "static/media/security.jpg": "/static/media/security.ad64e48c5f29f98e547b.jpg",
+    "static/media/seo.png": "/static/media/seo.488b0de6146485fa3eea.png",
+    "static/media/CSU.png": "/static/media/CSU.b21b2ba7ca621263e4c1.png",
+    "static/media/elementary.jpg": "/static/media/elementary.5c1c129128623863002e.jpg",
+    "static/media/Taligaman.jpg": "/static/media/Taligaman.e6727221200a8593c5b0.jpg",
+    "index.html": "/index.html",
+    "main.83f34a92.css.map": "/static/css/main.83f34a92.css.map",
+    "main.a38d0bb6.js.map": "/static/js/main.a38d0bb6.js.map",
+    "787.1fee1fb8.chunk.js.map": "/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f34a92.css",
+    "static/js/main.a38d0bb6.js"
+  ]
+}
